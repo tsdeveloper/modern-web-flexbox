@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
