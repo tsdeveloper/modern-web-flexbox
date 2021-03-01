@@ -1,0 +1,33 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+
+
+/* NAV MENU */ 
+nav.nav-menu {
+    position: fixed;
+    width: 100%;
+    background: rgba(0, 0, 0,.5);
+}
+
+
+/* LOGO MENU */ 
+a.logo {
+    color: #fff;
+    font-size: 26px;
+    /* text-decoration: none; */
+    border: solid 2px #fff;
+    width: 60px;
+    height: 60px;
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 100%;
+}
+
+/* BANNER MENU */ 
+
+.main-banner {
+    display: block;
+    width: 100%;
+}
